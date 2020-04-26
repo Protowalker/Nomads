@@ -1,0 +1,174 @@
+[22:46:16] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[22:46:16] [main/INFO]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[22:46:16] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[22:46:16] [main/INFO]: Forge Mod Loader version 14.23.5.2854 for Minecraft 1.12.2 loading
+[22:46:16] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_51, running on Windows 10:amd64:10.0, installed at C:\Users\Protowalker\Twitch\Minecraft\Install\runtime\jre-x64
+[22:46:16] [main/INFO]: Searching C:\Users\Protowalker\Twitch\Minecraft\Instances\test site\mods for mods
+[22:46:16] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:46:16] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[22:46:16] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:46:16] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:46:16] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:46:18] [main/INFO]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[22:46:19] [main/INFO]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[22:46:19] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:46:19] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[22:46:19] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[22:46:19] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[22:46:19] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[22:46:21] [Client thread/INFO]: Setting user: Protowalker
+[22:46:24] [Client thread/INFO]: LWJGL Version: 2.9.4
+[22:46:25] [Client thread/INFO]: -- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_51, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 187449424 bytes (178 MB) / 732954624 bytes (699 MB) up to 5726797824 bytes (5461 MB)
+	JVM Flags: 4 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmx6144m -Xms256m -XX:PermSize=256m
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	Loaded coremods (and transformers): 
+	GL info: ' Vendor: 'ATI Technologies Inc.' Version: '4.5.14008 Compatibility Profile Context 21.19.137.514' Renderer: 'AMD Radeon (TM) R9 380'
+[22:46:25] [Client thread/INFO]: MinecraftForge v14.23.5.2854 Initialized
+[22:46:25] [Client thread/INFO]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[22:46:25] [Client thread/INFO]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[22:46:25] [Client thread/INFO]: Replaced 1227 ore ingredients
+[22:46:26] [Client thread/INFO]: Searching C:\Users\Protowalker\Twitch\Minecraft\Instances\test site\mods for mods
+[22:46:28] [Client thread/INFO]: Forge Mod Loader has identified 12 mods to load
+[22:46:28] [Client thread/INFO]: Attempting connection with missing mods [minecraft, mcp, FML, forge, backstab, extendedrenderer, coroutil, configmod, dynamicstealth, fantasticlib, moveplus, walljump] at CLIENT
+[22:46:28] [Client thread/INFO]: Attempting connection with missing mods [minecraft, mcp, FML, forge, backstab, extendedrenderer, coroutil, configmod, dynamicstealth, fantasticlib, moveplus, walljump] at SERVER
+[22:46:29] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:BackStab, FMLFileResourcePack:Extended Renderer, FMLFileResourcePack:CoroUtil Library, FMLFileResourcePack:Extended Mod Config, FMLFileResourcePack:Dynamic Stealth, FMLFileResourcePack:Fantastic Lib, FMLFileResourcePack:Move Plus, FMLFileResourcePack:Wall-Jump!
+[22:46:29] [Thread-3/INFO]: Using alternative sync timing : 200 frames of Display.update took 1790593900 nanos
+[22:46:29] [Client thread/INFO]: Processing ObjectHolder annotations
+[22:46:29] [Client thread/INFO]: Found 1172 ObjectHolder annotations
+[22:46:29] [Client thread/INFO]: Identifying ItemStackHolder annotations
+[22:46:29] [Client thread/INFO]: Found 0 ItemStackHolder annotations
+[22:46:29] [Client thread/INFO]: Configured a dormant chunk cache size of 0
+[22:46:29] [Forge Version Check/INFO]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[22:46:29] [Forge Version Check/INFO]: [forge] Found status: AHEAD Target: null
+[22:46:29] [Client thread/INFO]: [com.fantasticsource.dynamicstealth.config.ConfigHandler:update:108]: Dynamic Stealth is checking config...
+[22:46:29] [Client thread/INFO]: [com.fantasticsource.dynamicstealth.config.ConfigHandler:update:116]: Compatible config file found; loading existing config file
+[22:46:30] [Client thread/INFO]: Applying holder lookups
+[22:46:30] [Client thread/INFO]: Holder lookups applied
+[22:46:30] [Client thread/INFO]: Applying holder lookups
+[22:46:30] [Client thread/INFO]: Holder lookups applied
+[22:46:30] [Client thread/INFO]: Applying holder lookups
+[22:46:30] [Client thread/INFO]: Holder lookups applied
+[22:46:30] [Client thread/INFO]: Applying holder lookups
+[22:46:30] [Client thread/INFO]: Holder lookups applied
+[22:46:30] [Client thread/INFO]: Injecting itemstacks
+[22:46:30] [Client thread/INFO]: Itemstack injection complete
+[22:46:30] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[22:46:30] [Thread-5/INFO]: Initializing LWJGL OpenAL
+[22:46:30] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[22:46:31] [Thread-5/INFO]: OpenAL initialized.
+[22:46:31] [Sound Library Loader/INFO]: Sound engine started
+[22:46:33] [Client thread/INFO]: Max texture size: 16384
+[22:46:36] [Client thread/INFO]: Created: 1024x1024 textures-atlas
+[22:46:38] [Client thread/INFO]: Applying holder lookups
+[22:46:38] [Client thread/INFO]: Holder lookups applied
+[22:46:38] [Client thread/INFO]: Injecting itemstacks
+[22:46:38] [Client thread/INFO]: Itemstack injection complete
+[22:46:38] [Client thread/INFO]: Forge Mod Loader has successfully loaded 12 mods
+[22:46:38] [Client thread/INFO]: Narrator library for x64 successfully loaded
+[22:46:46] [Server thread/INFO]: Starting integrated minecraft server version 1.12.2
+[22:46:46] [Server thread/INFO]: Generating keypair
+[22:46:46] [Server thread/INFO]: Injecting existing registry data into this server instance
+[22:46:46] [Server thread/INFO]: Applying holder lookups
+[22:46:46] [Server thread/INFO]: Holder lookups applied
+[22:46:46] [Server thread/INFO]: Loading dimension 0 (New World) (net.minecraft.server.integrated.IntegratedServer@5a310a51)
+[22:46:47] [Server thread/INFO]: Loaded 488 advancements
+[22:46:47] [Server thread/INFO]: Loading dimension -1 (New World) (net.minecraft.server.integrated.IntegratedServer@5a310a51)
+[22:46:47] [Server thread/INFO]: Loading dimension 1 (New World) (net.minecraft.server.integrated.IntegratedServer@5a310a51)
+[22:46:47] [Server thread/INFO]: Preparing start region for level 0
+[22:46:47] [Server thread/INFO]: CoroUtil detected Infernal Mobs Not Installed for use
+[22:46:48] [Server thread/INFO]: Preparing spawn area: 67%
+[22:46:48] [Server thread/INFO]: CoroUtil being reinitialized
+[22:46:48] [Server thread/INFO]: Unloading dimension -1
+[22:46:48] [Server thread/INFO]: Unloading dimension 1
+[22:46:48] [Server thread/INFO]: Changing view distance to 12, from 10
+[22:46:49] [Netty Local Client IO #0/INFO]: Server protocol version 2
+[22:46:49] [Netty Server IO #1/INFO]: Client protocol version 2
+[22:46:49] [Netty Server IO #1/INFO]: Client attempting to join with 12 mods : minecraft@1.12.2,backstab@1.0.3.2,dynamicstealth@1.12.2.102,FML@8.0.99.99,extendedrenderer@v1.0,forge@14.23.5.2854,coroutil@1.12.1-1.2.37,moveplus@1.12.1-2.4.6,mcp@9.42,configmod@v1.0,fantasticlib@1.12.2.034,walljump@1.3.2
+[22:46:49] [Netty Local Client IO #0/INFO]: [Netty Local Client IO #0] Client side modded connection established
+[22:46:49] [Server thread/INFO]: [Server thread] Server side modded connection established
+[22:46:49] [Server thread/INFO]: Protowalker[local:E:cc7d1445] logged in with entity id 67 at (7.70964808609579, 79.0, 256.3540626245334)
+[22:46:49] [Server thread/INFO]: Protowalker joined the game
+[22:46:50] [Server thread/INFO]: Saving and pausing game...
+[22:46:50] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[22:46:51] [Client thread/INFO]: Loaded 9 advancements
+[22:46:56] [Server thread/INFO]: Saving and pausing game...
+[22:46:56] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[22:46:59] [Client thread/INFO]: Using default channel type
+[22:46:59] [Client thread/INFO]: Started on 56377
+[22:46:59] [Client thread/INFO]: [CHAT] Local game hosted on port 56377
+[22:47:52] [User Authenticator #1/INFO]: UUID of player lilskooter is cd2b954a-fae5-4dea-9991-8ebf287550e5
+[22:47:52] [Netty Server IO #3/INFO]: Client protocol version 2
+[22:47:52] [Netty Server IO #3/INFO]: Client attempting to join with 12 mods : minecraft@1.12.2,backstab@1.0.3.2,dynamicstealth@1.12.2.102,FML@8.0.99.99,extendedrenderer@v1.0,forge@14.23.5.2854,coroutil@1.12.1-1.2.37,moveplus@1.12.1-2.4.6,mcp@9.42,configmod@v1.0,fantasticlib@1.12.2.034,walljump@1.3.2
+[22:47:52] [Server thread/INFO]: [Server thread] Server side modded connection established
+[22:47:52] [Server thread/INFO]: lilskooter[/25.14.173.180:50353] logged in with entity id 1165 at (9.758213115399283, 82.0, 267.58180265750343)
+[22:47:52] [Server thread/INFO]: lilskooter joined the game
+[22:47:52] [Client thread/INFO]: [CHAT] lilskooter joined the game
+[22:48:24] [Server thread/INFO]: [Protowalker: Object successfully summoned]
+[22:48:24] [Client thread/INFO]: [CHAT] Object successfully summoned
+[22:50:14] [Server thread/INFO]: [lilskooter: Set own game mode to Creative Mode]
+[22:50:14] [Client thread/INFO]: [CHAT] [lilskooter: Set own game mode to Creative Mode]
+[22:50:16] [Server thread/INFO]: [lilskooter: Set own game mode to Survival Mode]
+[22:50:16] [Client thread/INFO]: [CHAT] [lilskooter: Set own game mode to Survival Mode]
+[22:50:49] [Server thread/INFO]: [lilskooter: Set own game mode to Creative Mode]
+[22:50:49] [Client thread/INFO]: [CHAT] [lilskooter: Set own game mode to Creative Mode]
+[22:52:46] [Server thread/INFO]: [lilskooter: Set own game mode to Survival Mode]
+[22:52:46] [Client thread/INFO]: [CHAT] [lilskooter: Set own game mode to Survival Mode]
+[22:53:07] [Server thread/INFO]: [lilskooter: Set own game mode to Creative Mode]
+[22:53:07] [Client thread/INFO]: [CHAT] [lilskooter: Set own game mode to Creative Mode]
+[22:53:27] [Server thread/INFO]: [lilskooter: Set own game mode to Survival Mode]
+[22:53:27] [Client thread/INFO]: [CHAT] [lilskooter: Set own game mode to Survival Mode]
+[22:53:48] [Client thread/INFO]: [CHAT] spectator, survival
+[22:53:48] [Server thread/INFO]: [Protowalker: Set own game mode to Spectator Mode]
+[22:53:48] [Client thread/INFO]: [CHAT] Your game mode has been updated to Spectator Mode
+[22:53:50] [Server thread/INFO]: [Protowalker: Set own game mode to Survival Mode]
+[22:53:50] [Client thread/INFO]: [CHAT] Your game mode has been updated to Survival Mode
+[22:53:59] [Server thread/INFO]: [lilskooter: Set own game mode to Creative Mode]
+[22:53:59] [Client thread/INFO]: [CHAT] [lilskooter: Set own game mode to Creative Mode]
+[22:54:19] [Server thread/INFO]: [Protowalker: Set own game mode to Creative Mode]
+[22:54:19] [Client thread/INFO]: [CHAT] Your game mode has been updated to Creative Mode
+[22:54:57] [Server thread/INFO]: [lilskooter: Set own game mode to Survival Mode]
+[22:54:57] [Client thread/INFO]: [CHAT] [lilskooter: Set own game mode to Survival Mode]
+[22:55:29] [Server thread/INFO]: lilskooter fell from a high place
+[22:55:29] [Client thread/INFO]: [CHAT] lilskooter fell from a high place
+[22:55:35] [Server thread/INFO]: [lilskooter: Set own game mode to Creative Mode]
+[22:55:35] [Client thread/INFO]: [CHAT] [lilskooter: Set own game mode to Creative Mode]
+[22:55:42] [Client thread/INFO]: [CHAT] spectator, survival
+[22:55:42] [Server thread/INFO]: [Protowalker: Set own game mode to Spectator Mode]
+[22:55:42] [Client thread/INFO]: [CHAT] Your game mode has been updated to Spectator Mode
+[22:55:44] [Client thread/INFO]: [CHAT] spectator, survival
+[22:55:44] [Client thread/INFO]: [CHAT] spectator, survival
+[22:55:44] [Server thread/INFO]: [Protowalker: Set own game mode to Survival Mode]
+[22:55:44] [Client thread/INFO]: [CHAT] Your game mode has been updated to Survival Mode
+[22:55:56] [Server thread/INFO]: Protowalker fell from a high place
+[22:55:56] [Client thread/INFO]: [CHAT] Protowalker fell from a high place
+[22:56:01] [Server thread/INFO]: [Protowalker: Teleported Protowalker to lilskooter]
+[22:56:01] [Client thread/INFO]: [CHAT] Teleported Protowalker to lilskooter
+[22:56:10] [Server thread/INFO]: [Protowalker: Set own game mode to Creative Mode]
+[22:56:10] [Client thread/INFO]: [CHAT] Your game mode has been updated to Creative Mode
+[22:56:26] [Server thread/INFO]: [lilskooter: Set own game mode to Survival Mode]
+[22:56:26] [Client thread/INFO]: [CHAT] [lilskooter: Set own game mode to Survival Mode]
+[22:56:32] [Server thread/INFO]: [Protowalker: Teleported Protowalker to lilskooter]
+[22:56:32] [Client thread/INFO]: [CHAT] Teleported Protowalker to lilskooter
+[22:57:48] [Server thread/INFO]: [lilskooter: Set own game mode to Creative Mode]
+[22:57:48] [Client thread/INFO]: [CHAT] [lilskooter: Set own game mode to Creative Mode]
+[22:58:19] [Server thread/INFO]: [lilskooter: Set the time to 13000]
+[22:58:19] [Client thread/INFO]: [CHAT] [lilskooter: Set the time to 13000]
+[22:58:40] [Server thread/INFO]: [lilskooter: Set own game mode to Survival Mode]
+[22:58:40] [Client thread/INFO]: [CHAT] [lilskooter: Set own game mode to Survival Mode]
+[22:58:53] [Server thread/INFO]: [lilskooter: Set the time to 13000]
+[22:58:53] [Client thread/INFO]: [CHAT] [lilskooter: Set the time to 13000]
+[22:59:03] [Server thread/INFO]: [lilskooter: Set the time to 1000]
+[22:59:03] [Client thread/INFO]: [CHAT] [lilskooter: Set the time to 1000]
+[22:59:04] [Server thread/INFO]: lilskooter fell from a high place
+[22:59:04] [Client thread/INFO]: [CHAT] lilskooter fell from a high place
+[22:59:12] [Server thread/INFO]: [lilskooter: Set own game mode to Creative Mode]
+[22:59:12] [Client thread/INFO]: [CHAT] [lilskooter: Set own game mode to Creative Mode]
+[22:59:40] [Server thread/INFO]: [lilskooter: Set own game mode to Survival Mode]
+[22:59:40] [Client thread/INFO]: [CHAT] [lilskooter: Set own game mode to Survival Mode]
